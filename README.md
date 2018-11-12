@@ -11,4 +11,4 @@ GET Get /todos </br>
 POST Post /todos </br>
 GET Get /todos/:id </br>
 DEL Delete /todo/:id </br>
-PATC Patch /todos/:id </br>
+PATCH Patch /todos/:id </br>
